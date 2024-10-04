@@ -34,6 +34,8 @@ SakanaAI/Evo-UkiyoeをPythonで動かす方法
 
 プログラム
 -----
+HuggingFaceのアクセストークンが必要です
+
 
 app.py
 
