@@ -3,6 +3,9 @@ SakanaAI/Evo-UkiyoeをPythonで動かす方法
 
 間違いなどがあったら指摘していただけるとうれしいです。質問もお待ちしています。
 
+## YouTube
+[![](https://img.youtube.com/vi/FIdQXpeo-2Q/0.jpg)](https://www.youtube.com/watch?v=FIdQXpeo-2Q)
+
 環境整備コマンド
 --------
 
